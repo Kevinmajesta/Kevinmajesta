@@ -8,7 +8,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kvinivn/)
 
 
-## Screenshots
+## Motivation
 
 ![App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8mwY54QEEwmNDU7K1_Bhj7XfVwe4o5qjXg&s)
 
